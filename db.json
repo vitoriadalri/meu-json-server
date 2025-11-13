@@ -1,0 +1,41 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Vitória Dalri"
+    },
+    {
+      "id": 2,
+      "name": "Laura Silva"
+    }
+  ],
+
+  "albums": [
+    { "id": 1, "userId": 1, "title": "Álbum da Vitória" },
+    { "id": 2, "userId": 2, "title": "Álbum da Laura" }
+  ],
+
+  "photos": [
+    {
+      "id": 1,
+      "albumId": 1,
+      "title": "Foto 1",
+      "url": "https://picsum.photos/600?random=11",
+      "thumbnailUrl": "https://picsum.photos/150?random=11"
+    },
+    {
+      "id": 2,
+      "albumId": 1,
+      "title": "Foto 2",
+      "url": "https://picsum.photos/600?random=12",
+      "thumbnailUrl": "https://picsum.photos/150?random=12"
+    },
+    {
+      "id": 3,
+      "albumId": 2,
+      "title": "Foto 3",
+      "url": "https://picsum.photos/600?random=13",
+      "thumbnailUrl": "https://picsum.photos/150?random=13"
+    }
+  ]
+}
