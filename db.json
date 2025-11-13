@@ -1,47 +1,41 @@
 {
-  "users": [
-    {
-      "id": 1,
-      "name": "Vitória Dalri"
-    },
-    {
-      "id": 2,
-      "name": "Laura Silva"
-    }
-  ],
-
   "albums": [
-    { "id": 1, "userId": 1, "title": "Álbum da Vitória" },
-    { "id": 2, "userId": 2, "title": "Álbum da Laura" }
+    { "userId": 1, "id": 1, "title": "Album 1" },
+    { "userId": 1, "id": 2, "title": "Album 2" },
+    { "userId": 1, "id": 3, "title": "Album 3" },
+    { "userId": 2, "id": 4, "title": "Album 4" },
+    { "userId": 2, "id": 5, "title": "Album 5" },
+    { "userId": 3, "id": 6, "title": "Album 6" },
+    { "userId": 3, "id": 7, "title": "Album 7" },
+    { "userId": 4, "id": 8, "title": "Album 8" },
+    { "userId": 4, "id": 9, "title": "Album 9" },
+    { "userId": 5, "id": 10, "title": "Album 10" }
   ],
-
- {
   "photos": [
-    {
-      "albumId": 1,
-      "id": 1,
-      "title": "Foto 1",
-      "url": "https://picsum.photos/600/400?random=1",
-      "thumbnailUrl": "https://picsum.photos/150/100?random=1"
-    },
-    {
-      "albumId": 1,
-      "id": 2,
-      "title": "Foto 2",
-      "url": "https://picsum.photos/600/400?random=2",
-      "thumbnailUrl": "https://picsum.photos/150/100?random=2"
-    },
-    {
-      "albumId": 2,
-      "id": 3,
-      "title": "Foto 3",
-      "url": "https://picsum.photos/600/400?random=3",
-      "thumbnailUrl": "https://picsum.photos/150/100?random=3"
-    }
-  ]
-}
+    { "albumId": 1, "id": 1, "title": "Photo 1", "url": "https://via.placeholder.com/600/92c952", "thumbnailUrl": "https://via.placeholder.com/150/92c952" },
+    { "albumId": 1, "id": 2, "title": "Photo 2", "url": "https://via.placeholder.com/600/771796", "thumbnailUrl": "https://via.placeholder.com/150/771796" },
+    { "albumId": 1, "id": 3, "title": "Photo 3", "url": "https://via.placeholder.com/600/24f355", "thumbnailUrl": "https://via.placeholder.com/150/24f355" },
 
-      "thumbnailUrl": "https://picsum.photos/150?random=13"
-    }
+    { "albumId": 2, "id": 4, "title": "Photo 4", "url": "https://via.placeholder.com/600/d32776", "thumbnailUrl": "https://via.placeholder.com/150/d32776" },
+    { "albumId": 2, "id": 5, "title": "Photo 5", "url": "https://via.placeholder.com/600/f66b97", "thumbnailUrl": "https://via.placeholder.com/150/f66b97" },
+
+    { "albumId": 3, "id": 6, "title": "Photo 6", "url": "https://via.placeholder.com/600/56a8c2", "thumbnailUrl": "https://via.placeholder.com/150/56a8c2" },
+    { "albumId": 3, "id": 7, "title": "Photo 7", "url": "https://via.placeholder.com/600/b0f7cc", "thumbnailUrl": "https://via.placeholder.com/150/b0f7cc" },
+
+    { "albumId": 4, "id": 8, "title": "Photo 8", "url": "https://via.placeholder.com/600/54176f", "thumbnailUrl": "https://via.placeholder.com/150/54176f" },
+    { "albumId": 4, "id": 9, "title": "Photo 9", "url": "https://via.placeholder.com/600/51aa97", "thumbnailUrl": "https://via.placeholder.com/150/51aa97" },
+
+    { "albumId": 5, "id": 10, "title": "Photo 10", "url": "https://via.placeholder.com/600/810b14", "thumbnailUrl": "https://via.placeholder.com/150/810b14" },
+
+    { "albumId": 6, "id": 11, "title": "Photo 11", "url": "https://via.placeholder.com/600/1ee8a4", "thumbnailUrl": "https://via.placeholder.com/150/1ee8a4" },
+    { "albumId": 6, "id": 12, "title": "Photo 12", "url": "https://via.placeholder.com/600/66b7d2", "thumbnailUrl": "https://via.placeholder.com/150/66b7d2" },
+
+    { "albumId": 7, "id": 13, "title": "Photo 13", "url": "https://via.placeholder.com/600/197d29", "thumbnailUrl": "https://via.placeholder.com/150/197d29" },
+
+    { "albumId": 8, "id": 14, "title": "Photo 14", "url": "https://via.placeholder.com/600/61a65", "thumbnailUrl": "https://via.placeholder.com/150/61a65" },
+
+    { "albumId": 9, "id": 15, "title": "Photo 15", "url": "https://via.placeholder.com/600/f9cee5", "thumbnailUrl": "https://via.placeholder.com/150/f9cee5" },
+
+    { "albumId": 10, "id": 16, "title": "Photo 16", "url": "https://via.placeholder.com/600/fdf73e", "thumbnailUrl": "https://via.placeholder.com/150/fdf73e" }
   ]
 }
