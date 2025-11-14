@@ -32,7 +32,7 @@
   ],
 
   "photos": [
-    { "id": 1, "albumId": 1, "title": "Photo 1", "url": "https://picsum.photos/600/600?=1", "thumbnailUrl": "https://picsum.photos/600/600?=1" },
+    { "id": 1, "albumId": 1, "title": "Photo 1", "url": "https://picsum.photosID/id/600/600", "thumbnailUrl": "https://picsum.photosid/id/150/150" },
     { "id": 2, "albumId": 2, "title": "Photo 2", "url": "https://picsum.photos/600/600?=2", "thumbnailUrl": "https://picsum.photos/150/150?=2" },
 
     { "id": 3, "albumId": 11, "title": "Photo 3", "url": "https://picsum.photos/600/600?=11", "thumbnailUrl": "https://picsum.photos/150/150?=11" },
