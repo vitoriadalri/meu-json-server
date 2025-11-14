@@ -45,7 +45,7 @@
     { "id": 8, "albumId": 32, "title": "Photo 8", "url": "https://picsum.photos/600/600?=32", "thumbnailUrl": "https://picsum.photos/150/150?=32" },
 
     { "id": 9, "albumId": 41, "title": "Photo 9", "url": "https://picsum.photos/600/600?=41", "thumbnailUrl": "https://picsum.photos/150/150?=41" },
-    { "id": 10, "albumId": 42, "title": "Photo 10", "url": "https://picsum.photos/600/600?=42", "thumbnailUrl": "httpsum.photos/150/150?=42" },
+    { "id": 10, "albumId": 42, "title": "Photo 10", "url": "https://picsum.photos/600/600?=42", "thumbnailUrl": "htts://psum.photos/150/150?=42" },
 
     { "id": 11, "albumId": 51, "title": "Photo 11", "url": "https://picsum.photos/600/600?=51", "thumbnailUrl": "https://picsum.photos/150/150?=51" },
     { "id": 12, "albumId": 52, "title": "Photo 12", "url": "https://picsum.photos/600/600?=52", "thumbnailUrl": "https://picsum.photos/150/150?=52" },
