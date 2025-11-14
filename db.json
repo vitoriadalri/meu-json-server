@@ -60,5 +60,4 @@
     { "id": 20, "albumId": 31, "title": "Foto 20", "url": "https://picsum.photos/id/20/600/600", "thumbnailUrl": "https://picsum.photos/id/20/150/150" },
     { "id": 21, "albumId": 32, "title": "Foto 21", "url": "https://picsum.photos/id/21/600/600", "thumbnailUrl": "https://picsum.photos/id/21/150/150" }
   ]
-  ]
 }
