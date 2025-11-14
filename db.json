@@ -58,46 +58,6 @@
 
     { "id": 19, "albumId": 31, "title": "Foto 19", "url": "https://picsum.photos/id/19/600/600", "thumbnailUrl": "https://picsum.photos/id/19/150/150" },
     { "id": 20, "albumId": 31, "title": "Foto 20", "url": "https://picsum.photos/id/20/600/600", "thumbnailUrl": "https://picsum.photos/id/20/150/150" },
-    { "id": 21, "albumId": 32, "title": "Foto 21", "url": "https://picsum.photos/id/21/600/600", "thumbnailUrl": "https://picsum.photos/id/21/150/150" },
-    
-    { "id": 22, "albumId": 32, "title": "Foto 22", "url": "https://picsum.photos/id/22/600/600", "thumbnailUrl": "https://picsum.photos/id/22/150/150" },
-    { "id": 23, "albumId": 41, "title": "Foto 23", "url": "https://picsum.photos/id/23/600/600", "thumbnailUrl": "https://picsum.photos/id/23/150/150" },
-    { "id": 24, "albumId": 41, "title": "Foto 24", "url": "https://picsum.photos/id/24/600/600", "thumbnailUrl": "https://picsum.photos/id/24/150/150" },
-
-    { "id": 25, "albumId": 42, "title": "Foto 25", "url": "https://picsum.photos/id/25/600/600", "thumbnailUrl": "https://picsum.photos/id/25/150/150" },
-    { "id": 26, "albumId": 42, "title": "Foto 26", "url": "https://picsum.photos/id/26/600/600", "thumbnailUrl": "https://picsum.photos/id/26/150/150" },
-    { "id": 27, "albumId": 51, "title": "Foto 27", "url": "https://picsum.photos/id/27/600/600", "thumbnailUrl": "https://picsum.photos/id/27/150/150" },
-    
-    { "id": 28, "albumId": 51, "title": "Foto 28", "url": "https://picsum.photos/id/28/600/600", "thumbnailUrl": "https://picsum.photos/id/28/150/150" },
-    { "id": 29, "albumId": 52, "title": "Foto 29", "url": "https://picsum.photos/id/29/600/600", "thumbnailUrl": "https://picsum.photos/id/29/150/150" },
-    { "id": 30, "albumId": 52, "title": "Foto 30", "url": "https://picsum.photos/id/30/600/600", "thumbnailUrl": "https://picsum.photos/id/30/150/150" },
-    
-    { "id": 31, "albumId": 32, "title": "Foto 31", "url": "https://picsum.photos/id/31/600/600", "thumbnailUrl": "https://picsum.photos/id/31/150/150" },
-    { "id": 32, "albumId": 41, "title": "Foto 32", "url": "https://picsum.photos/id/32/600/600", "thumbnailUrl": "https://picsum.photos/id/32/150/150" },
-    { "id": 33, "albumId": 41, "title": "Foto 33", "url": "https://picsum.photos/id/33/600/600", "thumbnailUrl": "https://picsum.photos/id/33/150/150" },
-
-    { "id": 34, "albumId": 42, "title": "Foto 19", "url": "https://picsum.photos/id/34/600/600", "thumbnailUrl": "https://picsum.photos/id/34/150/150" },
-    { "id": 35, "albumId": 42, "title": "Foto 20", "url": "https://picsum.photos/id/35/600/600", "thumbnailUrl": "https://picsum.photos/id/35/150/150" },
-    { "id": 36, "albumId": 51, "title": "Foto 21", "url": "https://picsum.photos/id/36/600/600", "thumbnailUrl": "https://picsum.photos/id/36/150/150" },
-
-    { "id": 22, "albumId": 32, "title": "Foto 22", "url": "https://picsum.photos/id/22/600/600", "thumbnailUrl": "https://picsum.photos/id/22/150/150" },
-    { "id": 23, "albumId": 41, "title": "Foto 23", "url": "https://picsum.photos/id/23/600/600", "thumbnailUrl": "https://picsum.photos/id/23/150/150" },
-    { "id": 24, "albumId": 41, "title": "Foto 24", "url": "https://picsum.photos/id/24/600/600", "thumbnailUrl": "https://picsum.photos/id/24/150/150" },
-
-    { "id": 25, "albumId": 42, "title": "Foto 25", "url": "https://picsum.photos/id/25/600/600", "thumbnailUrl": "https://picsum.photos/id/25/150/150" },
-    { "id": 26, "albumId": 42, "title": "Foto 26", "url": "https://picsum.photos/id/26/600/600", "thumbnailUrl": "https://picsum.photos/id/26/150/150" },
-    { "id": 27, "albumId": 51, "title": "Foto 27", "url": "https://picsum.photos/id/27/600/600", "thumbnailUrl": "https://picsum.photos/id/27/150/150" },
-    
-    { "id": 28, "albumId": 51, "title": "Foto 28", "url": "https://picsum.photos/id/28/600/600", "thumbnailUrl": "https://picsum.photos/id/28/150/150" },
-    { "id": 29, "albumId": 52, "title": "Foto 29", "url": "https://picsum.photos/id/29/600/600", "thumbnailUrl": "https://picsum.photos/id/29/150/150" },
-    { "id": 30, "albumId": 52, "title": "Foto 30", "url": "https://picsum.photos/id/30/600/600", "thumbnailUrl": "https://picsum.photos/id/30/150/150" },
-    
-    { "id": 31, "albumId": 32, "title": "Foto 31", "url": "https://picsum.photos/id/31/600/600", "thumbnailUrl": "https://picsum.photos/id/31/150/150" },
-    { "id": 32, "albumId": 41, "title": "Foto 32", "url": "https://picsum.photos/id/32/600/600", "thumbnailUrl": "https://picsum.photos/id/32/150/150" },
-    { "id": 33, "albumId": 41, "title": "Foto 33", "url": "https://picsum.photos/id/33/600/600", "thumbnailUrl": "https://picsum.photos/id/33/150/150" },
-
-    { "id": 34, "albumId": 42, "title": "Foto 19", "url": "https://picsum.photos/id/34/600/600", "thumbnailUrl": "https://picsum.photos/id/34/150/150" },
-    { "id": 35, "albumId": 42, "title": "Foto 20", "url": "https://picsum.photos/id/35/600/600", "thumbnailUrl": "https://picsum.photos/id/35/150/150" },
-    { "id": 36, "albumId": 51, "title": "Foto 21", "url": "https://picsum.photos/id/36/600/600", "thumbnailUrl": "https://picsum.photos/id/36/150/150"}
+    { "id": 21, "albumId": 32, "title": "Foto 21", "url": "https://picsum.photos/id/21/600/600", "thumbnailUrl": "https://picsum.photos/id/21/150/150" }
   ]
 }
