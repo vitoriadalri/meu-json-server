@@ -98,7 +98,6 @@
 
     { "id": 34, "albumId": 42, "title": "Foto 19", "url": "https://picsum.photos/id/34/600/600", "thumbnailUrl": "https://picsum.photos/id/34/150/150" },
     { "id": 35, "albumId": 42, "title": "Foto 20", "url": "https://picsum.photos/id/35/600/600", "thumbnailUrl": "https://picsum.photos/id/35/150/150" },
-    { "id": 36, "albumId": 51, "title": "Foto 21", "url": "https://picsum.photos/id/36/600/600", "thumbnailUrl": "https://picsum.photos/id/3
-    
+    { "id": 36, "albumId": 51, "title": "Foto 21", "url": "https://picsum.photos/id/36/600/600", "thumbnailUrl": "https://picsum.photos/id/36/150/150"}
   ]
 }
