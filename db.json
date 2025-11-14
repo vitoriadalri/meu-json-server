@@ -21,7 +21,7 @@
     { "albumId": 2, "id": 5, "title": "Photo 5", "url": "https://loremflickr.com/600/600/city?lock=5", "thumbnailUrl": "https://loremflickr.com/150/150/city?lock=5" },
 
     { "albumId": 3, "id": 6, "title": "Photo 6", "url": "https://loremflickr.com/600/600/animals?lock=6", "thumbnailUrl": "https://loremflickr.com/150/150/animals?lock=6" },
-    { "albumId": 3, "id": 7, "title": "Photo 7", "url": "https://loremflickr.com/600/600/animals?lock=7", "thumbnailUrl": "https://loremflickr.com/150/150/animals?lock=7" },
+    { "albumId": 3, "id": 7, "title"Photo 7", "url": "https://loremflickr.com/600/600/animals?lock=7", "thumbnailUrl": "https://loremflickr.com/150/150/animals?lock=7" },
 
     { "albumId": 4, "id": 8, "title": "Photo 8", "url": "https://loremflickr.com/600/600/flowers?lock=8", "thumbnailUrl": "https://loremflickr.com/150/150/flowers?lock=8" },
     { "albumId": 4, "id": 9, "title": "Photo 9", "url": "https://loremflickr.com/600/600/flowers?lock=9", "thumbnailUrl": "https://loremflickr.com/150/150/flowers?lock=9" },
