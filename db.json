@@ -33,33 +33,33 @@
 
   "photos": [
     { "id": 1, "albumId": 1, "title": "Photo 1", "url": "https://picsum.photos/600/600?=1", "thumbnailUrl": "https://picsum.photos/600/600?=1" },
-    { "id": 2, "albumId": 2, "title": "Photo 2", "url": "https://picsum.photos/600/600?random=2", "thumbnailUrl": "https://picsum.photos/150/150?random=2" },
+    { "id": 2, "albumId": 2, "title": "Photo 2", "url": "https://picsum.photos/600/600?=2", "thumbnailUrl": "https://picsum.photos/150/150?=2" },
 
-    { "id": 3, "albumId": 3, "title": "Photo 3", "url": "https://picsum.photos/600/600?random=3", "thumbnailUrl": "https://picsum.photos/150/150?random=3" },
-    { "id": 4, "albumId": 4, "title": "Photo 4", "url": "https://picsum.photos/600/600?random=4", "thumbnailUrl": "https://picsum.photos/150/150?random=4" },
+    { "id": 3, "albumId": 3, "title": "Photo 3", "url": "https://picsum.photos/600/600?=3", "thumbnailUrl": "https://picsum.photos/150/150?=3" },
+    { "id": 4, "albumId": 4, "title": "Photo 4", "url": "https://picsum.photos/600/600?=4", "thumbnailUrl": "https://picsum.photos/150/150?=4" },
 
-    { "id": 5, "albumId": 5, "title": "Photo 5", "url": "https://picsum.photos/600/600?random=5", "thumbnailUrl": "https://picsum.photos/150/150?random=5" },
-    { "id": 6, "albumId": 6, "title": "Photo 6", "url": "https://picsum.photos/600/600?random=6", "thumbnailUrl": "https://picsum.photos/150/150?random=6" },
+    { "id": 5, "albumId": 5, "title": "Photo 5", "url": "https://picsum.photos/600/600?=5", "thumbnailUrl": "https://picsum.photos/150/150?=5" },
+    { "id": 6, "albumId": 6, "title": "Photo 6", "url": "https://picsum.photos/600/600?=6", "thumbnailUrl": "https://picsum.photos/150/150?=6" },
 
-    { "id": 7, "albumId": 7, "title": "Photo 7", "url": "https://picsum.photos/600/600?random=7", "thumbnailUrl": "https://picsum.photos/150/150?random=7" },
-    { "id": 8, "albumId": 8, "title": "Photo 8", "url": "https://picsum.photos/600/600?random=8", "thumbnailUrl": "https://picsum.photos/150/150?random=8" },
+    { "id": 7, "albumId": 7, "title": "Photo 7", "url": "https://picsum.photos/600/600?=7", "thumbnailUrl": "https://picsum.photos/150/150?=7" },
+    { "id": 8, "albumId": 8, "title": "Photo 8", "url": "https://picsum.photos/600/600?=8", "thumbnailUrl": "https://picsum.photos/150/150?=8" },
 
-    { "id": 9, "albumId": 9, "title": "Photo 9", "url": "https://picsum.photos/600/600?random=9", "thumbnailUrl": "https://picsum.photos/150/150?random=9" },
-    { "id": 10, "albumId": 10, "title": "Photo 10", "url": "https://picsum.photos/600/600?random=10", "thumbnailUrl": "httpsum.photos/150/150?random=10" },
+    { "id": 9, "albumId": 9, "title": "Photo 9", "url": "https://picsum.photos/600/600?=9", "thumbnailUrl": "https://picsum.photos/150/150?=9" },
+    { "id": 10, "albumId": 10, "title": "Photo 10", "url": "https://picsum.photos/600/600?=10", "thumbnailUrl": "httpsum.photos/150/150?=10" },
 
-    { "id": 11, "albumId": 11, "title": "Photo 11", "url": "https://picsum.photos/600/600?random=11", "thumbnailUrl": "https://picsum.photos/150/150?random=11" },
-    { "id": 12, "albumId": 12, "title": "Photo 12", "url": "https://picsum.photos/600/600?random=12", "thumbnailUrl": "https://picsum.photos/150/150?random=12" },
+    { "id": 11, "albumId": 11, "title": "Photo 11", "url": "https://picsum.photos/600/600?=11", "thumbnailUrl": "https://picsum.photos/150/150?=11" },
+    { "id": 12, "albumId": 12, "title": "Photo 12", "url": "https://picsum.photos/600/600?=12", "thumbnailUrl": "https://picsum.photos/150/150?=12" },
 
-    { "id": 13, "albumId": 13, "title": "Photo 13", "url": "https://picsum.photos/600/600?random=13", "thumbnailUrl": "https://picsum.photos/150/150?random=13" },
-    { "id": 14, "albumId": 14, "title": "Photo 14", "url": "https://picsum.photos/600/600?random=14", "thumbnailUrl": "https://picsum.photos/150/150?random=14" },
+    { "id": 13, "albumId": 13, "title": "Photo 13", "url": "https://picsum.photos/600/600?=13", "thumbnailUrl": "https://picsum.photos/150/150?=13" },
+    { "id": 14, "albumId": 14, "title": "Photo 14", "url": "https://picsum.photos/600/600?=14", "thumbnailUrl": "https://picsum.photos/150/150?=14" },
 
-    { "id": 15, "albumId": 15, "title": "Photo 15", "url": "https://picsum.photos/600/600?random=15", "thumbnailUrl": "https://picsum.photos/150/150?random=15" },
-    { "id": 16, "albumId": 16, "title": "Photo 16", "url": "https://picsum.photos/600/600?random=16", "thumbnailUrl": "https://picsum.photos/150/150?random=16" },
+    { "id": 15, "albumId": 15, "title": "Photo 15", "url": "https://picsum.photos/600/600?=15", "thumbnailUrl": "https://picsum.photos/150/150?=15" },
+    { "id": 16, "albumId": 16, "title": "Photo 16", "url": "https://picsum.photos/600/600?=16", "thumbnailUrl": "https://picsum.photos/150/150?=16" },
 
-    { "id": 17, "albumId": 17, "title": "Photo 17", "url": "https://picsum.photos/600/600?random=17", "thumbnailUrl": "https://picsum.photos/150/150?random=17" },
-    { "id": 18, "albumId": 18, "title": "Photo 18", "url": "https://picsum.photos/600/600?random=18", "thumbnailUrl": "https://picsum.photos/150/150?random=18" },
+    { "id": 17, "albumId": 17, "title": "Photo 17", "url": "https://picsum.photos/600/600?=17", "thumbnailUrl": "https://picsum.photos/150/150?=17" },
+    { "id": 18, "albumId": 18, "title": "Photo 18", "url": "https://picsum.photos/600/600?=18", "thumbnailUrl": "https://picsum.photos/150/150?=18" },
 
-    { "id": 19, "albumId": 19, "title": "Photo 19", "url": "https://picsum.photos/600/600?random=19", "thumbnailUrl": "https://picsum.photos/150/150?random=19" },
-    { "id": 20, "albumId": 20, "title": "Photo 20", "url": "https://picsum.photos/600/600?random=20", "thumbnailUrl": "https://picsum.photos/150/150?random=20" }
+    { "id": 19, "albumId": 19, "title": "Photo 19", "url": "https://picsum.photos/600/600?=19", "thumbnailUrl": "https://picsum.photos/150/150?=19" },
+    { "id": 20, "albumId": 20, "title": "Photo 20", "url": "https://picsum.photos/600/600?=20", "thumbnailUrl": "https://picsum.photos/150/150?=20" }
   ]
 }
