@@ -3,63 +3,60 @@
     { "id": 1, "userId": 1, "title": "Album 1" },
     { "id": 2, "userId": 1, "title": "Album 2" },
 
-    { "id": 3, "userId": 2, "title": "Album 1" },
-    { "id": 4, "userId": 2, "title": "Album 2" },
+    { "id": 11, "userId": 2, "title": "Album 1" },
+    { "id": 12, "userId": 2, "title": "Album 2" },
 
-    { "id": 5, "userId": 3, "title": "Album 1" },
-    { "id": 6, "userId": 3, "title": "Album 2" },
+    { "id": 21, "userId": 3, "title": "Album 1" },
+    { "id": 22, "userId": 3, "title": "Album 2" },
 
-    { "id": 7, "userId": 4, "title": "Album 1" },
-    { "id": 8, "userId": 4, "title": "Album 2" },
+    { "id": 31, "userId": 4, "title": "Album 1" },
+    { "id": 32, "userId": 4, "title": "Album 2" },
 
-    { "id": 9, "userId": 5, "title": "Album 1" },
-    { "id": 10, "userId": 5, "title": "Album 2" },
+    { "id": 41, "userId": 5, "title": "Album 1" },
+    { "id": 42, "userId": 5, "title": "Album 2" },
 
-    { "id": 11, "userId": 6, "title": "Album 1" },
-    { "id": 12, "userId": 6, "title": "Album 2" },
+    { "id": 51, "userId": 6, "title": "Album 1" },
+    { "id": 52, "userId": 6, "title": "Album 2" },
 
-    { "id": 13, "userId": 7, "title": "Album 1" },
-    { "id": 14, "userId": 7, "title": "Album 2" },
+    { "id": 61, "userId": 7, "title": "Album 1" },
+    { "id": 62, "userId": 7, "title": "Album 2" },
 
-    { "id": 15, "userId": 8, "title": "Album 1" },
-    { "id": 16, "userId": 8, "title": "Album 2" },
+    { "id": 71, "userId": 8, "title": "Album 1" },
+    { "id": 72, "userId": 8, "title": "Album 2" },
 
-    { "id": 17, "userId": 9, "title": "Album 1" },
-    { "id": 18, "userId": 9, "title": "Album 2" },
+    { "id": 81, "userId": 9, "title": "Album 1" },
+    { "id": 82, "userId": 9, "title": "Album 2" },
 
-    { "id": 19, "userId": 10, "title": "Album 1" },
-    { "id": 20, "userId": 10, "title": "Album 2" }
+    { "id": 91, "userId": 10, "title": "Album 1" },
+    { "id": 92, "userId": 10, "title": "Album 2" }
   ],
 
   "photos": [
-    { "id": 1, "albumId": 1, "title": "Photo 1", "url": "https://picsum.photos/id/1/600/600", "thumbnailUrl": "https://picsum.photosid/id/150/150" },
-    { "id": 2, "albumId": 2, "title": "Photo 2", "url": "https://picsum.photos/600/600?=2", "thumbnailUrl": "https://picsum.photos/150/150?=2" },
+    { "id": 1, "albumId": 1, "title": "Foto 1", "url": "https://picsum.photos/id/1/600/600", "thumbnailUrl": "https://picsum.photos/id/1/150/150" },
+    { "id": 2, "albumId": 1, "title": "Foto 2", "url": "https://picsum.photos/id/2/600/600", "thumbnailUrl": "https://picsum.photos/id/2/150/150" },
+    { "id": 3, "albumId": 1, "title": "Foto 3", "url": "https://picsum.photos/id/3/600/600", "thumbnailUrl": "https://picsum.photos/id/3/150/150" },
 
-    { "id": 3, "albumId": 11, "title": "Photo 3", "url": "https://picsum.photos/600/600?=11", "thumbnailUrl": "https://picsum.photos/150/150?=11" },
-    { "id": 4, "albumId": 12, "title": "Photo 4", "url": "https://picsum.photos/600/600?=12", "thumbnailUrl": "https://picsum.photos/150/150?=12" },
+    { "id": 4, "albumId": 2, "title": "Foto 4", "url": "https://picsum.photos/id/4/600/600", "thumbnailUrl": "https://picsum.photos/id/4/150/150" },
+    { "id": 5, "albumId": 2, "title": "Foto 5", "url": "https://picsum.photos/id/5/600/600", "thumbnailUrl": "https://picsum.photos/id/5/150/150" },
+    { "id": 6, "albumId": 2, "title": "Foto 6", "url": "https://picsum.photos/id/6/600/600", "thumbnailUrl": "https://picsum.photos/id/6/150/150" },
 
-    { "id": 5, "albumId": 21, "title": "Photo 5", "url": "https://picsum.photos/600/600?=21", "thumbnailUrl": "https://picsum.photos/150/150?=21" },
-    { "id": 6, "albumId": 22, "title": "Photo 6", "url": "https://picsum.photos/600/600?=22", "thumbnailUrl": "https://picsum.photos/150/150?=22" },
+    { "id": 7, "albumId": 11, "title": "Foto 7", "url": "https://picsum.photos/id/7/600/600", "thumbnailUrl": "https://picsum.photos/id/7/150/150" },
+    { "id": 8, "albumId": 11, "title": "Foto 8", "url": "https://picsum.photos/id/8/600/600", "thumbnailUrl": "https://picsum.photos/id/8/150/150" },
+    { "id": 9, "albumId": 11, "title": "Foto 9", "url": "https://picsum.photos/id/9/600/600", "thumbnailUrl": "https://picsum.photos/id/9/150/150" },
 
-    { "id": 7, "albumId": 31, "title": "Photo 7", "url": "https://picsum.photos/600/600?=31", "thumbnailUrl": "https://picsum.photos/150/150?=31" },
-    { "id": 8, "albumId": 32, "title": "Photo 8", "url": "https://picsum.photos/600/600?=32", "thumbnailUrl": "https://picsum.photos/150/150?=32" },
+    { "id": 10, "albumId": 12, "title": "Foto 10", "url": "https://picsum.photos/id/10/600/600", "thumbnailUrl": "https://picsum.photos/id/10/150/150" },
+    { "id": 11, "albumId": 12, "title": "Foto 11", "url": "https://picsum.photos/id/11/600/600", "thumbnailUrl": "https://picsum.photos/id/11/150/150" },
+    { "id": 12, "albumId": 12, "title": "Foto 12", "url": "https://picsum.photos/id/12/600/600", "thumbnailUrl": "https://picsum.photos/id/12/150/150" },
 
-    { "id": 9, "albumId": 41, "title": "Photo 9", "url": "https://picsum.photos/600/600?=41", "thumbnailUrl": "https://picsum.photos/150/150?=41" },
-    { "id": 10, "albumId": 42, "title": "Photo 10", "url": "https://picsum.photos/600/600?=42", "thumbnailUrl":"https://picsum.photos/150/150?=42" },
+    { "id": 13, "albumId": 21, "title": "Foto 13", "url": "https://picsum.photos/id/13/600/600", "thumbnailUrl": "https://picsum.photos/id/13/150/150" },
+    { "id": 14, "albumId": 21, "title": "Foto 14", "url": "https://picsum.photos/id/14/600/600", "thumbnailUrl": "https://picsum.photos/id/14/150/150" },
+    { "id": 15, "albumId": 21, "title": "Foto 15", "url": "https://picsum.photos/id/15/600/600", "thumbnailUrl": "https://picsum.photos/id/15/150/150" },
 
-    { "id": 11, "albumId": 51, "title": "Photo 11", "url": "https://picsum.photos/600/600?=51", "thumbnailUrl": "https://picsum.photos/150/150?=51" },
-    { "id": 12, "albumId": 52, "title": "Photo 12", "url": "https://picsum.photos/600/600?=52", "thumbnailUrl": "https://picsum.photos/150/150?=52" },
+    { "id": 16, "albumId": 22, "title": "Foto 16", "url": "https://picsum.photos/id/16/600/600", "thumbnailUrl": "https://picsum.photos/id/16/150/150" },
+    { "id": 17, "albumId": 22, "title": "Foto 17", "url": "https://picsum.photos/id/17/600/600", "thumbnailUrl": "https://picsum.photos/id/17/150/150" },
+    { "id": 18, "albumId": 22, "title": "Foto 18", "url": "https://picsum.photos/id/18/600/600", "thumbnailUrl": "https://picsum.photos/id/18/150/150" },
 
-    { "id": 13, "albumId": 61, "title": "Photo 13", "url": "https://picsum.photos/600/600?=61", "thumbnailUrl": "https://picsum.photos/150/150?=61" },
-    { "id": 14, "albumId": 62, "title": "Photo 14", "url": "https://picsum.photos/600/600?=62", "thumbnailUrl": "https://picsum.photos/150/150?=62" },
-
-    { "id": 15, "albumId": 71, "title": "Photo 15", "url": "https://picsum.photos/600/600?=72", "thumbnailUrl": "https://picsum.photos/150/150?=71" },
-    { "id": 16, "albumId": 72, "title": "Photo 16", "url": "https://picsum.photos/600/600?=71", "thumbnailUrl": "https://picsum.photos/150/150?=72" },
-
-    { "id": 17, "albumId": 81, "title": "Photo 17", "url": "https://picsum.photos/600/600?=81", "thumbnailUrl": "https://picsum.photos/150/150?=81" },
-    { "id": 18, "albumId": 82, "title": "Photo 18", "url": "https://picsum.photos/600/600?=82", "thumbnailUrl": "https://picsum.photos/150/150?=82" },
-
-    { "id": 19, "albumId": 91, "title": "Photo 19", "url": "https://picsum.photos/600/600?=91", "thumbnailUrl": "https://picsum.photos/150/150?=91" },
-    { "id": 20, "albumId": 92, "title": "Photo 20", "url": "https://picsum.photos/600/600?=92", "thumbnailUrl": "https://picsum.photos/150/150?=92" }
+    { "id": 19, "albumId": 31, "title": "Foto 19", "url": "https://picsum.photos/id/19/600/600", "thumbnailUrl": "https://picsum.photos/id/19/150/150" },
+    { "id": 20, "albumId": 31, "title": "Foto 20", "url": "https://picsum.photos/id/20/600/600", "thumbnailUrl": "https://picsum.photos/id/20/150/150" }
   ]
 }
